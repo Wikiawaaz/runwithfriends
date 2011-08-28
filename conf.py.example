@@ -17,7 +17,7 @@ FACEBOOK_APP_ID = '201370973259913'
 FACEBOOK_APP_SECRET = '586f1a6d8c9fd60ed6e91fa6038a2ed6'
 
 # Canvas Page name.
-FACEBOOK_CANVAS_NAME = 'runwithfriends'
+FACEBOOK_CANVAS_NAME = 'celebrationanna'
 
 # A random token for use with the Real-time API.
 FACEBOOK_REALTIME_VERIFY_TOKEN = 'RANDOM TOKEN'
